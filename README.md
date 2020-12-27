@@ -19,4 +19,6 @@ npm i
 npm start
 ```
 
-![alt text](https://github.com/khabdrick/django-teacher-assignment-webapp/blob/master/rsz_screenshot_from_2020-12-27_15-28-53.png)
+![alt text]()
+![alt text]()
+![alt text]()
