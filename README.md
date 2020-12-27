@@ -2,7 +2,7 @@
 
 
 
-This project contains a Django Rest API with a React frontend. Users are able to signup and login to their account. Teeachers are able to create assignment. Students are able to answer those assignment and view their results.
+This project contains a Django Rest API with a React frontend. Users are able to signup and login to their account. The authentication has a multiple user types Teachers are able to create questions. Students are able to answer those questions and view their results.
 
 ## Backend development workflow
 
