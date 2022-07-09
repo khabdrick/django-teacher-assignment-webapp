@@ -1,4 +1,6 @@
-This project contains a Django Rest API with a React frontend. Users are able to signup and login to their account. The authentication has multiple user types. Also tutors are able to create questions. Students are able to answer those questions and view their results.
+This project aims to deliver a platform where Django experts can post Django related questions and then beginners can testout their proficiency in Django by answering the questions and see results. The authentication has multiple user types:
+1. Tutors are able to create questions. 
+2. Students are able to answer those questions and view their results in percentage.
 
 ## Development workflow
 
